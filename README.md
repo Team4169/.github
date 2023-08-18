@@ -1,1 +1,3 @@
 # .github
+
+Warrior Robotics is the premier technology-based student activity at Lincoln Sudbury Regional High School, made up of 35 students who participate in the FIRST Robotics Competition (FRC). This international engineering competition challenges students to work together as a team, with the help of teachers and mentors, over the course of 30 days to brainstorm, design, construct and test their robot, culminating in competitions where teams put their robots to the test. The team is entirely student-led and dependent on community fundraising in order to meet our budget for robot parts, competition fees, and team travel.
